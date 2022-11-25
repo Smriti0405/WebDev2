@@ -1,1 +1,0 @@
-console.log(document.getElementsByName('green').innerHTML)
